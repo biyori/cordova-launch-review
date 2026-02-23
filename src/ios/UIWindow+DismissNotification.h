@@ -1,3 +1,4 @@
+#import <UIKit/UIKit.h>
 @interface MonitorObject:NSObject
 
 @property (nonatomic, weak) UIWindow* owner;
